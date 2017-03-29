@@ -38,7 +38,7 @@ blockquote { margin: 1.2em; padding: 1em;  font-size: 12pt; }
 hr { background-color: #ccc; }
 
 /* Images */
-img { max-width: 100% !important; }
+img { max-width: 100%;}
 a img { border: none; }
 
 /* Links */
