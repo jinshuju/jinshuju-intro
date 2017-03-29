@@ -12,9 +12,12 @@
     content: "last: " string(heading, last);
   }*/
   
-  @bottom-center {
+  @bottom-right-corner {
     font-size: 0.8rem;
     content: counter(page);
+    font-family: Arial;
+    text-align: center;
+    color: #999;
   }
 }
 

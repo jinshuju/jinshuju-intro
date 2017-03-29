@@ -24,10 +24,13 @@
 
 footer {
   position: fixed;
-  bottom: -1cm;
-  left: -1cm;
-  right: -1cm;
+  bottom: -2cm;
+  text-align: center;
   padding: 0.25rem 1rem;
-  font-size: 0.8rem;
-  color: #fff;
+  font-size: 0.6rem;
+  left: 0;
+  right: 0;
+  color: #999;
+  border-top: 1px solid #ccc;
+  line-height: 1.5rem;
 }
