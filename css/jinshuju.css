@@ -1,0 +1,33 @@
+.s01 {
+  color: #fff;
+}
+
+.s01 h1, .s01 h2 {
+  text-align: center;
+}
+
+.s01 footer {
+  display: none;
+  bottom: -100000px;
+}
+
+.brand-white {
+  margin-top: 8rem;
+  width: 64px;
+  height: auto;
+}
+
+.brand-white-small {
+  width: 20px;
+  height: auto;
+}
+
+footer {
+  position: fixed;
+  bottom: -1cm;
+  left: -1cm;
+  right: -1cm;
+  padding: 0.25rem 1rem;
+  font-size: 0.8rem;
+  color: #fff;
+}
