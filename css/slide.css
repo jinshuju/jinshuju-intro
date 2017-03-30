@@ -29,7 +29,7 @@
 }
 
 .slide {
-  page-break-after: always;
+  page-break-after: auto;
   width: 100%;
 }
 
@@ -75,5 +75,5 @@
 }
 
 img {
-  max-height: 4in;
+  max-height: 4.5in;
 }

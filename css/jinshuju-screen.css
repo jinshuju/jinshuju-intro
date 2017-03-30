@@ -1,0 +1,12 @@
+.slide {
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+  margin: 1rem;
+  width: 1000px;
+  height: 562px;  
+  background-color: #fff;
+}
+
+body {
+  padding: 1rem;
+  background-color: #D6D6D6;
+}

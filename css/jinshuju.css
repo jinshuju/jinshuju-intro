@@ -2,6 +2,10 @@
   color: #ff8533;
 }
 
+.s01 h1 {
+  font-size: 3rem;
+}
+
 .s01 h1, .s01 h2 {
   text-align: center;
 }
@@ -33,4 +37,45 @@ footer {
   color: #999;
   border-top: 1px solid #ccc;
   line-height: 1.5rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: normal;
+}
+
+.color-1 {
+  color: #FF8533;
+}
+
+.color-2 {
+  color: #9BBB59;
+}
+
+.color-3 {
+  color: #16A085;
+}
+
+.color-4 {
+  color: #2980B9;
+}
+
+.color-5 {
+  color: #C0392B;
+}
+
+.color-6 {
+  color: #4B2C50;
+}
+
+.icon-size-3 {
+  font-size: 3rem;
+}
+
+.icon-size-2 {
+  font-size: 2rem;
 }
