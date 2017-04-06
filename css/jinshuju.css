@@ -79,3 +79,12 @@ h2 {
 .icon-size-2 {
   font-size: 2rem;
 }
+
+.app {
+  text-align: center;
+}
+
+.app img {
+  width: 100px;
+  height: 100px;
+}
